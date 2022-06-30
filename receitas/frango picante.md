@@ -1,4 +1,5 @@
-Ingredientes - Frango picante
+# Ingredientes - Frango picante
+
 1 quilo de coxinha da asa
 2 colheres de sopa de óleo
 1 colher de sopa de alho em pó
@@ -11,7 +12,9 @@ Ingredientes - Molho de iogurte
 sal e pimenta-do-reino moída a gosto
 1 pitada de alho em pó
 salsinha e cebolinha bem picadinhas a gosto
-Modo de Preparo - Frango picante
+
+## Modo de Preparo - Frango picante
+
 1. Pré-aqueça o forno a 220 graus Célsius
 2. Envolva as asinhas no óleo e tempere com sal, pimenta e alho em pó.
 3. Leve ao forno por cerca de 40 minutos, neste processo que elas assarão.
